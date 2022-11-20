@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\bin\Debug\net6.0\ExampleHW4.exe
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\bin\Debug\net6.0\ExampleHW4.deps.json
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\bin\Debug\net6.0\ExampleHW4.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\bin\Debug\net6.0\ExampleHW4.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\bin\Debug\net6.0\ExampleHW4.pdb
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\refint\ExampleHW4.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.pdb
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ExampleHW4.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 2\ExampleHW4\obj\Debug\net6.0\ref\ExampleHW4.dll
