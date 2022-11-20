@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.csproj.CoreCompileInputs.cache
