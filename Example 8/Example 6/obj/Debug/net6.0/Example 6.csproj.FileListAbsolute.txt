@@ -3,3 +3,13 @@ C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Exampl
 C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.AssemblyInfoInputs.cache
 C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.AssemblyInfo.cs
 C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\bin\Debug\net6.0\Example 6.exe
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\bin\Debug\net6.0\Example 6.deps.json
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\bin\Debug\net6.0\Example 6.runtimeconfig.json
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\bin\Debug\net6.0\Example 6.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\bin\Debug\net6.0\Example 6.pdb
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\refint\Example 6.dll
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.pdb
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\Example 6.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\GB\HW 181122\Example 8\Example 6\obj\Debug\net6.0\ref\Example 6.dll
